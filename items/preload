@@ -1,0 +1,23 @@
+{
+	"name": "Preload",
+	"version": "1.0",
+	"release_date": "2018-11-08",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/liartfr/preload/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/liartfr/preload",
+	"description": "Display a Splash screen during the loading time of Each page.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_fr": ".",
+	"features_fr": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "liartfr"
+}
